@@ -23,8 +23,8 @@ push "redirect-gateway def1"
 
 keepalive {{ .Keepalive }}
 
-comp-lzo
-max-clients {{ .MaxClients }}
+# comp-lzo
+# max-clients {{ .MaxClients }}
 
 persist-key
 persist-tun
@@ -32,4 +32,3 @@ persist-tun
 log         openvpn.log
 verb 3
 
-mute 10
