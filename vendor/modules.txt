@@ -1,11 +1,11 @@
 # github.com/Sirupsen/logrus v0.10.0
 ## explicit
 github.com/Sirupsen/logrus
-# github.com/adamwalach/go-openvpn v0.0.0-20170320215004-37de024281f7
+# github.com/brianwong1861/go-openvpn v0.0.0-20170320215004-37de024281f7
 ## explicit
-github.com/adamwalach/go-openvpn/client/config
-github.com/adamwalach/go-openvpn/server/config
-github.com/adamwalach/go-openvpn/server/mi
+github.com/brianwong1861/go-openvpn/client/config
+github.com/brianwong1861/go-openvpn/server/config
+github.com/brianwong1861/go-openvpn/server/mi
 # github.com/astaxie/beego v1.7.2
 ## explicit
 github.com/astaxie/beego
@@ -60,4 +60,4 @@ gopkg.in/hlandau/passlib.v1/hash/scrypt
 gopkg.in/hlandau/passlib.v1/hash/scrypt/raw
 gopkg.in/hlandau/passlib.v1/hash/sha2crypt
 gopkg.in/hlandau/passlib.v1/hash/sha2crypt/raw
-# github.com/adamwalach/openvpn-web-ui => /Volumes/Orico/go-proj/openvpn-web-ui
+# github.com/brianwong1861/openvpn-web-ui => /Volumes/Orico/go-proj/openvpn-web-ui

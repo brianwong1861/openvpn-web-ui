@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="774b73f5-4e1e-425f-9d73-e2fdbc20ed3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/adamwalach/go-openvpn/server/mi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/adamwalach/go-openvpn/server/mi/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/brianwong1861/go-openvpn/server/mi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/brianwong1861/go-openvpn/server/mi/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/bcrypt/bcrypt.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/bcrypt/bcrypt.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/blowfish/cipher.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/blowfish/cipher.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/crypto/blowfish/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/golang.org/x/crypto/blowfish/const.go" afterDir="false" />
@@ -235,18 +235,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="go build github.com/adamwalach/openvpn-web-ui" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/brianwong1861/openvpn-web-ui" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="openvpn-web-ui" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="github.com/adamwalach/openvpn-web-ui" />
+      <package value="github.com/brianwong1861/openvpn-web-ui" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/adamwalach/openvpn-web-ui" />
+        <item itemvalue="Go Build.go build github.com/brianwong1861/openvpn-web-ui" />
       </list>
     </recent_temporary>
   </component>

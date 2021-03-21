@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adamwalach/openvpn-web-ui/models"
+	"github.com/brianwong1861/openvpn-web-ui/models"
 	"github.com/astaxie/beego"
 )
 

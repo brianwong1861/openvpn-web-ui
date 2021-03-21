@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"github.com/adamwalach/openvpn-web-ui/controllers"
+	"github.com/brianwong1861/openvpn-web-ui/controllers"
 	"github.com/astaxie/beego"
 )
 

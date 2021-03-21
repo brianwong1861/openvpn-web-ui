@@ -1,10 +1,10 @@
-module github.com/adamwalach/openvpn-web-ui
+module github.com/briawong1861/openvpn-web-ui
 
 go 1.15
 
 require (
 	github.com/Sirupsen/logrus v0.10.0 // indirect
-	github.com/adamwalach/go-openvpn v0.0.0-20170320215004-37de024281f7
+	github.com/brianwong1861/go-openvpn v0.0.0-20170320215004-37de024281f7
 	github.com/astaxie/beego v1.7.2
 	github.com/cloudfoundry/gosigar v0.0.0-20160602191207-c32d31af94b0
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
@@ -18,4 +18,3 @@ require (
 	gopkg.in/hlandau/passlib.v1 v1.0.9
 )
 
-replace github.com/adamwalach/openvpn-web-ui => /Volumes/Orico/go-proj/openvpn-web-ui

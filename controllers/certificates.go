@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/adamwalach/go-openvpn/client/config"
-	"github.com/adamwalach/openvpn-web-ui/lib"
-	"github.com/adamwalach/openvpn-web-ui/models"
+	"github.com/brianwong1861/go-openvpn/client/config"
+	"github.com/brianwong1861/openvpn-web-ui/lib"
+	"github.com/brianwong1861/openvpn-web-ui/models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/validation"
 )
